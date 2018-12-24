@@ -2,7 +2,7 @@
 matrix:
   include:
   - os: linux
-    dist: xenial
+    dist: trusty
     language: python
     env:
       - secure: iMXx74c2eUhDPJrukvAFxCFNWYDk8JB2alQ89Hc3T1ckXfDS37vgUplTze1aGo+AefUkDSFmTreFk9hVJvd4SQTHz4wS+qp7HQJFWECjR16jZwobIbukNPNU1JamozZoOa2igoVIJ8/tVIdIpfcsGfzj9WogwUlpChWHIiI8SM/Fc0WK+M9rDPKBpgjEN2yom73jbC2ETxuQ/HMdMNnNS9S1vS7MY+2W69+xi5Kl9hP0HUBIG/JtVXu1a4SO5NgqL5aW4cgKtgg0IjpedBRMcC0rpyEz+lDtl2jXYR+mXQEO8uNZOwzV7SLrq/ROGwW+DMtfiiySKxmuYoL/JOm4kcLyEup51dgnTQc1RdEcaYfk0twDry67prnQ/sXAQphzjl0StrTpLfzWUsCvgXRp7+XWhX9ElHN4KelOcAc7YeTSXoPY6bENk8LSy1woJ2HbH5TkSvtVJ6xrmssV3bEMp7aGx7qv1D/uvyAEMulB79WwdLyoDxmG9eIgXfp3nICko4p9kisrzK0hVCGDRCHSYgTnDBGTMJU/SlRRNUepmXHXQUrqWyTWvy2HTMUTjuYBaaNcUqZvyHyyaDq0MNBotwDCmes5o8fZu456lB/B26LwUu7cOSbCw19ePlGBNnbjA9NmNoQGOo66era3NEVJLYv+H91PAPQyWpzOt0X53Gk=
